@@ -51,3 +51,21 @@ Open the Vite URL shown in the terminal, normally `http://localhost:5173`. Regis
 - `src/` — React frontend
 - `backend/` — Express API and authentication
 - `database/schema.sql` — MySQL schema
+
+
+## Team Members and Collaboration
+
+FocusFlow was developed collaboratively by a team of three members.
+
+- **Vivek Tawate** — Project integration, backend configuration, database integration, and application development.
+- **Aarya Walgaonkar** — Collaborative development, study planner functionality, and application testing.
+- **Prasad** — Collaborative development, analytics review, testing, and documentation.
+
+### Development Workflow
+
+- Git and GitHub are used for version control.
+- Feature branches are used to organize development work.
+- Pull requests support code review and integration.
+- Team members contribute through development, testing, debugging, and documentation.
+
+*Responsibilities are summarized according to each member's actual contribution to the project.*
